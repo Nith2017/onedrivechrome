@@ -1,0 +1,16 @@
+{
+  "name": "javascriptprojects",
+  "version": "1.0.0",
+  "description": "Selenium project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nithya",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {}
+}
